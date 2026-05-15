@@ -1,5 +1,4 @@
 # SmartHomeArduino
-# Smart Home Arduino Project
 
 ## Description
 This project is a smart home system created using Arduino and Tinkercad.
